@@ -18,7 +18,9 @@
     <img src="https://raw.githubusercontent.com/fowziya01/Portfolio/main/src/icons8-github-logo-96.png" alt="GitHub" width="80">
     <img src="https://raw.githubusercontent.com/fowziya01/Portfolio/main/src/icons8-visual-studio-code-96.png" alt="VS Code" width="80">
 </div>
-
+ <h2>Contact Me</h2>
+        <p>Email: fowzijunaid@gmail.com</p>
+        <p>Phone Number: 8056522528</p>
 
 
 
