@@ -5,7 +5,7 @@
 - 📫 How to reach me fowzijunaid@gmail.com
 - 😄 Pronouns: she/her
 
-  
+  <img src="https://github.com/fowziya01/Portfolio/blob/main/src/edited.jpg" alt="Home_image">
 
 
 
