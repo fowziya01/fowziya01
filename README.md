@@ -1,3 +1,8 @@
+Aspiring Web Developer with an engineering background, currently upskilling at Masai, where I have spent 22 weeks learning JavaScript, Node.js, Express, and MongoDB. Previously worked as a Clinical Manager, but my passion for technology led me to transition into the tech field.
+
+
+
+
 - 👋 Hello, I’m Fowziya Begam 
 - 👀 I’m interested in learning backend development
 - 🌱 I’m currently learning Node.js, Express.js, MongoDB, and Mongoose. 
