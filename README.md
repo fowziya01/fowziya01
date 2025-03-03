@@ -1,4 +1,4 @@
-Aspiring Web Developer with an engineering background, currently upskilling at Masai, where I have spent 22 weeks learning JavaScript, Node.js, Express, MongoDB,Mongoose and Jwt Authentication. Previously worked as a Clinical Manager, but my passion for technology led me to transition into the tech field.
+Aspiring Web Developer with an engineering background, currently upskilling at Masai, where I have spent 22 weeks learning HTML,CSS, JavaScript, Node.js, Express, MongoDB, Mongoose and Jwt Authentication. Previously worked as a Clinical Manager, but my passion for technology led me to transition into the tech field.
 
 
 
